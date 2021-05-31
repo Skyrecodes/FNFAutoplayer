@@ -2,3 +2,4 @@
 4 Autohotkey scripts that autoplay Friday Night Funkin
 IMPORTANT RESOLUTION MUST BE 1366 BY 768 OR IT WILL NOT WORK
 YOU MUST ALSO INSTALL AUTOHOTKEY BEFORE USING
+1080p Is also supported.
